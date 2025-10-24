@@ -6,4 +6,20 @@
         "Allowoffline": false,
         "user": "omprakash"
     },
+    
+    {
+        "device_id": "eacc166f5f3c8d7c",
+        "key": "6a87b0973f",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false,
+        "user": "Munna ralte"
+    },
+       {
+        "device_id": "153b5aca87e6b8a2",
+        "key": "6dd89bc308",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false,
+        "user": "Munna ralte"
+    },
+ ]
 ]

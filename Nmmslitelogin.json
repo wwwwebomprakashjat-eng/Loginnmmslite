@@ -34,5 +34,12 @@
         "expirydate": "10-12-2025",
         "Allowoffline": false,
         "user": "baldev"
+    },
+        {
+        "device_id": "85f12641185a269e",
+        "key": "5ygt44d",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false,
+        "user": "jjj"
     }
  ]
